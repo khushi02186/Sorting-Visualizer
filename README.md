@@ -1,17 +1,17 @@
 # Sorting-Visualizer
 A Java Swing application for visualizing sorting algorithms.
 
-###Features
+## Features
 ~Visualize sorting algorithms.
 ~Adjustable array size and animation speed.
 ~User-friendly GUI.
 ~Real-time sorting animation.
 
-###Prerequisites
+## Prerequisites
 ~Java Development Kit (JDK).
 ~IDE (e.g., Eclipse, IntelliJ IDEA).
 
-##This application consist of Sorting Algorithms:
+## This application consist of Sorting Algorithms:
 Bubble Sort
 Insertion Sort
 Selection Sort
