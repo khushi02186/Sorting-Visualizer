@@ -8,8 +8,8 @@ A Java Swing application for visualizing sorting algorithms.
 ~Real-time sorting animation.
 
 ## Prerequisites
-~Java Development Kit (JDK).
-~IDE (e.g., Eclipse, IntelliJ IDEA).
+"*" Java Development Kit (JDK).
+"*"IDE (e.g., Eclipse, IntelliJ IDEA).
 
 ## This application consist of Sorting Algorithms:
 Bubble Sort
