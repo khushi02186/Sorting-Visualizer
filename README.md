@@ -2,10 +2,7 @@
 A Java Swing application for visualizing sorting algorithms.
 
 ## Features
-* Item 1
-* Item 2
-* Item 3
-  
+
 * Visualize sorting algorithms.
 * Adjustable array size and animation speed.
 * User-friendly GUI.
